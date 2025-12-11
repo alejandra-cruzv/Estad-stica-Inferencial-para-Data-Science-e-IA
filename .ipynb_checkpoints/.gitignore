@@ -1,0 +1,17 @@
+# No subir checkpoints ni configuraciones
+.ipynb_checkpoints/
+.vscode/
+
+# No subir archivos de sistema
+*.exe
+*.dat
+*.log
+
+# No subir archivos temporales
+*.tmp
+
+# No subir imágenes grandes
+*.png
+*.jpg
+*.jpeg
+*.webp
